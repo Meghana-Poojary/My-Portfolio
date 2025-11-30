@@ -120,7 +120,7 @@ export default function App() {
   const myPhotoUrl = 'https://avatars.githubusercontent.com/u/105907336?v=4'; // Replace with your actual photo URL
   
   return (
-    <div className="min-h-screen flex flex-col bg-gray-50 dark:bg-indigo-950 text-gray-900 dark:text-gray-100">
+    <div className="min-h-screen w-full flex flex-col bg-gray-50 dark:bg-indigo-950 text-gray-900 dark:text-gray-100">
       <Navbar />
       <DotPattern />
       <WarpBackground>
