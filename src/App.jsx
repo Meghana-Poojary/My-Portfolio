@@ -89,7 +89,7 @@ const projects = [
     title: "Shortly - URL Shortener",
     description: "A website that shortens URLs with built-in analytics to track visit counts, visitor IP addresses, and access timestamps for each link.",
     image: "https://images.unsplash.com/photo-1617854818583-09e7f077a156?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    technologies: ["React,js", "Node.js", "Express.js", "PostgreSQL],
+    technologies: ["React,js", "Node.js", "Express.js", "PostgreSQL"],
     website: "https://urlshortener-1-ne4n.onrender.com",
     github: "https://github.com/Meghana-Poojary/URLShortener",
   },
