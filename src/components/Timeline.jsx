@@ -8,7 +8,7 @@ const timelineData = [
     id: 1,
     title: 'Full Stack Developer',
     subtitle: 'Sowntra',
-    date: 'Nov 2025 - Present',
+    date: 'Nov 2025 - December 2025',
     description: 'Worked on frontend, backend and debugging of the main website. Improved performance by through code optimization and implemented new features based on user feedback.',
     icon: <FaBriefcase className="w-5 h-5" />,
     iconBg: 'bg-blue-500', // blue-500
