@@ -86,19 +86,20 @@ const projects = [
   },
   {
     id: 4,
+    title: "Shortly - URL Shortener",
+    description: "A website that shortens URLs with built-in analytics to track visit counts, visitor IP addresses, and access timestamps for each link.",
+    image: "https://images.unsplash.com/photo-1617854818583-09e7f077a156?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    technologies: ["React,js", "Node.js", "Express.js", "PostgreSQL],
+    website: "https://urlshortener-1-ne4n.onrender.com",
+    github: "https://github.com/Meghana-Poojary/URLShortener",
+  },
+  {
+    id: 5,
     title: "MediTrack",
     description: "A web-based application designed to enhance medical coherence by helping users manage and track medical records, prescriptions, and patient interactions in one unified platform.",
     image: "https://plus.unsplash.com/premium_vector-1714142562333-6f0b45c67248?q=80&w=2054&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     technologies: ["React", "Node.js", "Express.js", "PostgreSQL"],
     github: "https://github.com/Meghana-Poojary/MediTrack",
-  },
-  {
-    id: 5,
-    title: "Human Team Foundation NGO Website",
-    description: "Main website for Human Team Foundation, a non-governmental organization (NGO).",
-    image: "https://plus.unsplash.com/premium_photo-1661605653366-b1a6a6831cd4?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    technologies: ["Next.js", "Node.js", "Express.js"],
-    github: "https://github.com/Meghana-Poojary/NGO-Website",
   },  
   {
     id: 6,
